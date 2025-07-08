@@ -1,0 +1,18 @@
+.oddNumbered{
+    background-color: lightpink;
+    font-family:'Verdana', 'DejaVu Sans', Arial, sans-serif;
+}
+
+#secondNumber{
+    color: blue;
+    font-size: 36px;
+}
+
+.adjustSize{
+    font-size: 24px
+}
+
+#fourthNumber{
+    background-color: lightgreen;
+    font-weight: bold;
+}
